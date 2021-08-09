@@ -9,4 +9,4 @@
 Hi, I'm Alexei Ledenev, a software engineer at [DoiT International](https://www.doit-intl.com).
 
 
-![alexei-led github stats](https://github-readme-stats.vercel.app/api?username=alexei-led0&show_icons=true&theme=radical)
+![alexei-led github stats](https://github-readme-stats.vercel.app/api?username=alexei-led&show_icons=true&theme=radical)
