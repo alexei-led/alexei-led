@@ -1,12 +1,18 @@
-### Hi, I'm [Alexei Ledenev!](https://medium.com/@alexeiled) 👋
+## Hey 👋
 
-<a href="https://twitter.com/alexeiled">
-  <img align="left" alt="Alexei Ledenev | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+I've spent 25 years building software — from bare metal to Kubernetes to whatever comes next.
 
-</br>
+Started with chaos engineering and containers. Built [Pumba](https://github.com/alexei-led/pumba) to break things in production on purpose. Then Docker, Kubernetes, cloud architecture — the usual path of someone who enjoys watching systems fail gracefully.
 
-Hi, I'm Alexei Ledenev, a staff cloud architect at [DoiT International](https://www.doit-intl.com).
+These days I'm deep into **AI agents and infrastructure** — building bridges between LLMs and the real world:
 
+- [**k8s-mcp-server**](https://github.com/alexei-led/k8s-mcp-server) — AI assistants that actually talk to your cluster (kubectl, helm, istio, argo)
+- [**aws-mcp-server**](https://github.com/alexei-led/aws-mcp-server) — same idea, but for AWS CLI, sandboxed
+- [**spotinfo**](https://github.com/alexei-led/spotinfo) — because Spot pricing shouldn't be a mystery
 
-![alexei-led github stats](https://github-readme-stats.vercel.app/api?username=alexei-led&show_icons=true&theme=radical)
+The shift from "I write code" to "I orchestrate agents that write code" happened faster than anyone expected. Not sure if that's exciting or terrifying. Probably both.
+
+`Go` · `Python` · `Kubernetes` · `AWS` · `MCP` · `AI Agents`
+
+<sub>Opinions are my own. Code is open source. Future is uncertain.</sub>
+
