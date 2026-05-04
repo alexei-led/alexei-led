@@ -6,9 +6,11 @@ Started with chaos engineering and containers. Built [Pumba](https://github.com/
 
 These days I'm deep into **AI agents and infrastructure** — building bridges between LLMs and the real world:
 
+- [**pumba**](https://github.com/alexei-led/pumba) - State-of-the-art chaos testing, network emulation, and stress testing tool for containers (Docker, Containerd, Podman)
 - [**k8s-mcp-server**](https://github.com/alexei-led/k8s-mcp-server) — AI assistants that actually talk to your cluster (kubectl, helm, istio, argo)
 - [**aws-mcp-server**](https://github.com/alexei-led/aws-mcp-server) — same idea, but for AWS CLI, sandboxed
 - [**spotinfo**](https://github.com/alexei-led/spotinfo) — because Spot pricing shouldn't be a mystery
+- [**ccgeram**](https://github.com/alexei-led/ccgram) - Telegram ↔ tmux bridge for Claude Code, Codex CLI, and Gemini CLI
 
 The shift from "I write code" to "I orchestrate agents that write code" happened faster than anyone expected. Not sure if that's exciting or terrifying. Probably both.
 
