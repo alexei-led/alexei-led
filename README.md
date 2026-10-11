@@ -6,6 +6,7 @@ Started with chaos engineering and containers. Built [Pumba](https://github.com/
 
 These days I'm deep into **AI agents and infrastructure** — building bridges between LLMs and the real world:
 
+- [**claude-router**](https://github.com/alexei-led/claude-router) - Native Claude Code Mod that routes each turn to the right model and effort by tier and activity. No proxy
 - [**pumba**](https://github.com/alexei-led/pumba) - State-of-the-art chaos testing, network emulation, and stress testing tool for containers (Docker, Containerd, Podman)
 - [**spotinfo**](https://github.com/alexei-led/spotinfo) — because Spot pricing shouldn't be a mystery
 - [**ccgram**](https://github.com/alexei-led/ccgram) - Telegram ↔ tmux bridge for Claude Code, Codex CLI, and Gemini CLI
